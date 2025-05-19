@@ -1,0 +1,6 @@
+﻿customer_id,telecom_partner,gender,age,state,city,pincode,date_of_registration,num_dependents,estimated_salary,calls_made,sms_sent,data_used,tenure_months,internet_type,subscription_type,contract_type,payment_method,churn
+243554,Reliance Jio,Male,28,Maharashtra,Mumbai,400001,15-01-2023,2,45000,120,50,3.2 GB,64,DSL,Basic,One Year,Bank Withdrawal,?
+243555,Airtel,Female,34,Karnataka,Bengaluru,560001,20-11-2022,1,65000,80,30,2.8 GB,69,DSL,Standard,Month-to-Month,Bank Withdrawal,?
+243556,Vodafone Idea,Male,40,Tamil Nadu,Chennai,600001,10-07-2021,3,70000,150,40,4.1 GB,70,Fiber Optic,Basic,One Year,Credit Card,?
+243557,BSNL,Female,22,Kerala,Kochi,682001,05-05-2023,0,35000,60,20,1.5 GB,71,Fiber Optic,Basic,One Year,Credit Card,?
+243558,Jio,Male,50,Delhi,New Delhi,110001,15-12-2020,2,90000,200,60,5.2 GB,72,DSL,Standard,Month-to-Month,Bank Withdrawal,?
