@@ -30,16 +30,14 @@ TOOLS & TECHNOLOGIES USED
 Python,
 MySQL,
 Excel,	
-Power BI,
- and	
+Power BI, and	
 Jupyter Notebook	
-
 
 METHODOLOGY:
 
 Data Collection & Understanding: Collected data from Kaggle and Identified key customer metrics affecting churn
 Data Preprocessing: Null value handling and Encoding categorical variables
-Feature engineering: Added Tenure, Subscription Type, etc.
+Feature engineering: Added Tenure, Subscription Type, Contract Type, Payment Method( Cleaned & Updated dataset: https://drive.google.com/file/d/1DcbfY_HgAKuI2FJxQGUiqujAiKy-7NSu/view?usp=sharing)
 Exploratory Data Analysis (EDA): Uncovered insights using plots, correlations, and churn distribution and Identified top influencing variables
 Model Building: Trained models: Logistic Regression, Random Forest, XGBoost, Gradient Boosting and Selected XGBoost (Best accuracy: 86.92%)
 Model Evaluation: Used metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC and Validated predictions using test datasets
